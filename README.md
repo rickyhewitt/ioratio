@@ -23,23 +23,3 @@ MIT License
 
 ## Credit
 Ricky Hewitt <rickyhewitt.dev>)
-
-## Requirements
-python3
-
-## Example usage
-
-### Stats for /dev/sda1
-`ioratio.py /dev/sda1`
-
-### Stats all sd* devices
-`ioratio.py /dev/sd`
-
-### Watch all sd devices every 1 sec
-`watch -n1 ioratio.py /dev/sd`
-
-## License
-MIT License
-
-## Credit
-Ricky Hewitt <rickyhewitt.dev>
