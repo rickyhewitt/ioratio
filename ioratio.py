@@ -1,7 +1,10 @@
 #!/usr/bin/env python3
 # ioratio.py
 #
-# A simple python utility to show percentage of read & write utilization for disks
+# A python utility to show percentage of read & write utilization for disks
+#
+# Disk usage data is gathered from /proc/diskstats & then
+# processed accordingly.
 #
 # License: MIT
 # Author: Ricky Hewitt <contact@rickyhewitt.dev>
