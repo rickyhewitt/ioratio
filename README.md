@@ -6,6 +6,10 @@ A linux utility for displaying device IO & read % / write % ratio
 
 ## Requirements
 python3
+pip
+
+## Installation
+`pip3 install -r requirements.txt`
 
 ## Example usage
 
