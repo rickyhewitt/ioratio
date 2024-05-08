@@ -7,7 +7,7 @@
 # processed accordingly.
 #
 # License: MIT
-# Author: Ricky Hewitt <contact@rickyhewitt.dev>
+# Author: Ricky Hewitt <ricky@rickyhewitt.dev>
 
 import time
 import os
