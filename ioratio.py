@@ -35,7 +35,7 @@ def main(device):
             stats.append([disk, reads, writes, "%.2f" % read_ratio, "%.2f" % write_ratio])
 
 
-    header = ['Disk', 'Reads', 'Writes', 'Read Ratio (%)', 'Write Ratio (%)']
+    header = ['Disk', 'Reads', 'Writes', 'Read (%)', 'Write (%)']
     data = [header] + list(stats)
 
     for i, d in enumerate(data):
