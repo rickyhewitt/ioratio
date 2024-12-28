@@ -26,4 +26,4 @@ pip
 MIT License
 
 ## Credit
-Ricky Hewitt <rickyhewitt.dev>)
+Ricky Hewitt <rickyhewitt.dev>
